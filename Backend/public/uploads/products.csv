@@ -1,0 +1,6 @@
+__v,_id,instock,price,productimage,quantity,title,type
+0,62de4f366d2dc6b6dd34ad98,true,55000,"https://static.toiimg.com/thumb/resizemode-4,msid-71446518,imgsize-200,width-1200/71446518.jpg",10,iphone 12,smartphone
+0,62de4fb26d2dc6b6dd34ad9a,true,65000,https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone13_hero_09142021_inline.jpg.large.jpg,11,iphone 13,smartphone
+0,62de57876d2dc6b6dd34ad9c,true,6500,https://rukminim1.flixcart.com/image/416/416/kn0n6a80/office-study-chair/7/q/x/pp-polypropylene-candid-fixed-armrest-wipro-original-imagfs7nh9vgcwnh.jpeg?q=70,12,work chair,furniture
+0,62de71a38eca83de63bb820e,true,89000,https://4.imimg.com/data4/SJ/BA/MY-3018414/apple-laptop-500x500.jpg,5,Mac-Book air M1,electronics
+0,62de74bd8eca83de63bb8210,false,29000,https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/csm_Nothing71_79ebbcf5d9.jpg,5,Nothing Phone 1,smartphone
